@@ -1,0 +1,12 @@
+.DS_STORE
+
+*.idb
+*.id0
+*.id1
+*.nam
+*.til
+
+*.o
+*.dSYM
+
+XNU-syscall-hiding-PoC
